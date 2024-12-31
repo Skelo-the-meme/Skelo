@@ -10,10 +10,19 @@
       "value": "Blue"
     }
   ],
-  "creators": [
-    {
-      "address": "E39mdwThuGnVJobwpkq6Ax7EJ7gq4CfsvEgY5vjaxuoh",
-      "share": 100
-    }
-  ]
+  "properties": {
+    "files": [
+      {
+        "uri": "https://i.ibb.co/DrdVBg1/users-ddc3f5cd5fe43f8b-images-2024-12-21-22-35-20.jpg",
+        "type": "image/jpeg"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "E39mdwThuGnVJobwpkq6Ax7EJ7gq4CfsvEgY5vjaxuoh",
+        "share": 100
+      }
+    ]
+  }
 }
